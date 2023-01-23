@@ -7,4 +7,4 @@ author = "Hugo Authors"
 enableComments = false
 +++
 
-Thanni is a Nigerian writer, musician, programmer and entrepreneur.
+NDZ is a community for clarity and execution. We discuss timeless ideas on all parts of life. This journal is a beginner's guide and catalog for our forum.
