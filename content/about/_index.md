@@ -7,4 +7,4 @@ author = "Hugo Authors"
 enableComments = false
 +++
 
-NDZ is a community for clarity and execution. We discuss timeless ideas on all parts of life. This journal is a beginner's guide and catalog for our forum.
+NDZ is a community for clarity and execution. We discuss timeless ideas on all parts of life. This journal is a beginner's guide and knowledge base for our forum.

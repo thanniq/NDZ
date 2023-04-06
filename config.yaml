@@ -6,7 +6,6 @@ theme: mini
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish), default 'en'
 defaultContentLanguage: en
 
-
 hasCJKLanguage: true
 permalinks:
   posts: /:title/
@@ -37,12 +36,11 @@ social:
   # github: https://github.com/bythanni
   spotify: #
   # youtube: https://youtube.com/
-  twitter: #
-  # instagram: https://instagram.com/
+  twitter: https://twitter.com/ndzforum
+  instagram: https://instagram.com/ndzforum
   # dribbble: https://instagram.com/thannidesign
   #stackoverflow: your-github-link
   # facebook: your-facebook-link
-
 
 # Site parameters
 params:
@@ -54,7 +52,6 @@ params:
   # bio: 🧘🏽‍♂️💻🎵🎭🎙📸
   # Site Description, used in HTML meat
   description: Community for Clarity and Execution
-
 
   ###########################################
   # Optional Configuration
@@ -84,7 +81,7 @@ params:
     #   path: /project
 
   # You can put your custom css and js to `static` directory, or use remote css and js files which start with `http://` or `https://`
-  customCSS: 
+  customCSS:
     # - css/custom.css
     ## e.g.
     # - css/custom.css # local css in `static/css/custom.css`
