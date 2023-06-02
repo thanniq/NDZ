@@ -185,7 +185,7 @@ nav.navigation a {
   border-radius: 3px;
 }
 nav.navigation a:hover {
-  color: #02eb98;
+  color: #01d548;
 }
 
 nav.navigation a.button {
@@ -207,7 +207,7 @@ nav.navigation a.button {
     top: 8px;
     right: 6px;
     padding: 8px 8px;
-    color: #01d548;
+    color: #02eb98;
     font-size: 13px;
     line-height: 1.35;
     border-radius: 3px;
@@ -445,7 +445,7 @@ nav.navigation a.button {
   border-radius: 2px;
 }
 #single .tags a:hover {
-  color: #01d548;
+  color: #02eb98;
 }
 
 #archive {
