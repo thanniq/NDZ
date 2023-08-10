@@ -37,6 +37,6 @@ As a freelancer or employee, remote work offers:
 
 <hr>
 
-Hey champ: **NDZ** is a community-first education platform for remote workers and digital creators. This journal is a beginner’s guide and knowledge base for our forum.
+**NDZ** is a community-first education platform for remote workers and digital creators. This journal is a beginner’s guide and knowledge base for our forum.
 
 Feel free to ask questions in the [forum](https://ndz.ng)
