@@ -7,9 +7,9 @@ tags = [
 "Starter Kit",
 ]
 
-+++When you hear the word "remote", you probably think of "remote control" - that thing we use to change our TV channels. And you know how they can always be missing in action. Just when you need them, they disappear.
++++<!--more-->
 
-<!--more-->
+When you hear the word "remote", you probably think of "remote control" - that thing we use to change our TV channels. And you know how they can always be missing in action. Just when you need them, they disappear.
 
 Imagine the pain of operating the TV using the physical buttons alone. Remote controls know how valuable they are, and they make us suffer for it.
 
@@ -29,9 +29,9 @@ As a freelancer or employee, remote work offers:
 
 **Increased productivity:** This is a consequence of working with less commute and in an environment where there's minimum distraction. Don't expect to be productive because you work remotely. If you are disorganized in your digital or physical life, remote work might decrease your productivity.
 
-## Cons of Remote Work 🙂
+## Cons of Remote Work 🙁
 
-**Micromanagement:** In everything in life, there are usually bad actors. Some remote workers tend to show poor accountability for their actions, thereby leading to micromanagement from the employers. Also, some comapnies have poor workflows that leads to micromanagement by the managers.
+**Micromanagement:** In everything in life, there are usually bad actors. Some remote workers tend to show poor accountability for their actions, thereby leading to micromanagement from the employers. Also, some companies have poor workflows that leads to micromanagement by the managers.
 
 **Blurred work-life boundaries:** Poor time management or unclear expectations can lead to work bleeding beyond work hours. Also, a demanding work environment can take a lot of your personal time.
 

@@ -1,6 +1,6 @@
 +++
 author = "Thanni"
-title = "Remote work guide"
+title = "Remote Work Guide"
 date = "2023-06-05"
 description = "Getting started with remote work"
 tags = [
@@ -10,7 +10,7 @@ draft = false
 
 +++<!--more-->
 
-Now that we've established what [remote work]() is. How do you get started? Easy peasy. Here're the most important requirements to make your first or next dollar online.
+Now that we've established what [remote work](https://journal.ndz.ng/what-is-remote-work/) is. How do you get started? Easy peasy. Here're the most important requirements to make your first or next dollar online.
 
 1. A Laptop
 2. Wifi Connection
