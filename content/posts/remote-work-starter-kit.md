@@ -22,15 +22,15 @@ When you hear the word "remote", you probably think of "remote control" - that t
 
 ## 📍 Remote work guide (beginner-friendly)
 
-Now that we've established what [remote work]() is. How do you get started? Easy peasy. Here're the most important requirements to make your first or next dollar online.
+Now that we've established what remote work is. How do you get started? Easy peasy. Here're the most important requirements to make your first or next dollar online.
 
 [Continue reading →](https://journal.ndz.ng/remote-work-guide/)
 
-## 💻 5 best freelancing hacks
+## 💻 5 best freelancing tips
 
 Discover the "5 Best Freelancing Hacks" that will empower you to streamline your workflow, optimize client interactions, and elevate your freelance career to new heights.
 
-[Continue reading →](https://journal.ndz.ng/10-best-freelancing-tip/)
+[Continue reading →](https://journal.ndz.ng/10-best-freelancing-tips/)
 
 <hr>
 
