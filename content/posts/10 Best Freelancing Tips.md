@@ -1,18 +1,16 @@
 +++
 author = "Thanni"
 title = "10 Best Freelancing Tips"
-date = "2023-06-05"
+date = "2023-08-15"
 description = "Getting started with remote work"
 tags = [
 "Starter Kit",
 ]
 draft = false
 
-+++<!--more-->
++++## **Optimize Your Profile**
 
-## **Optimize Your Profile**
-
-Your freelancing profile is your online identity. Craft a compelling and detailed profile that highlights your skills, experiences, and achievements. Use a professional photo, write an engaging bio, and clearly state your expertise. Clients are more likely to trust and hire freelancers with complete and well-presented profiles.
+Your freelancing profile is your online identity. Craft a compelling and detailed profile that highlights your skills, experiences, and achievements. <!--more--> Use a professional photo, write an engaging bio, and clearly state your expertise. Clients are more likely to trust and hire freelancers with complete and well-presented profiles.
 
 ## **Set Realistic Rates**
 

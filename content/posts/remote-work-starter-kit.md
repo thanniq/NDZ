@@ -1,18 +1,18 @@
 +++
 author = "Thanni"
 title = "Remote Work Starter Kit 🎒"
-date = "2023-06-05"
+date = "2023-08-15"
 description = "Getting started with remote work"
 tags = [
 "Starter Kit",
 ]
 draft = false
 
-+++<!--more-->
-
-**Hey Champ🌟,**
++++**Hey Champ🌟,**
 
 Welcome to a new world of endless opportunities as you embark on your remote work journey. Here's a set of remote work guides.
+
+<!--more-->
 
 ## ❓ What is remote work?
 

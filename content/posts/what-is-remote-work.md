@@ -1,15 +1,15 @@
 +++
 author = "Thanni"
 title = "What is Remote Work?"
-date = "2023-06-05"
+date = "2023-08-15"
 description = "Getting started with remote work"
 tags = [
 "Starter Kit",
 ]
 
-+++<!--more-->
++++When you hear the word "remote", you probably think of "remote control" - that thing we use to change our TV channels. And you know how they can always be missing in action. Just when you need them, they disappear.
 
-When you hear the word "remote", you probably think of "remote control" - that thing we use to change our TV channels. And you know how they can always be missing in action. Just when you need them, they disappear.
+<!--more-->
 
 Imagine the pain of operating the TV using the physical buttons alone. Remote controls know how valuable they are, and they make us suffer for it.
 
