@@ -42,7 +42,7 @@ How do you have multiple streams of income if you are not into multiple trades?
 
 This won’t go without saying – You don’t have to be a master in anything at all to be super successful. To have to be a master of one is boring and a one-way ticket to a life full of regrets.
 
-It’s a no-brainer to own an eCommerce store, be a gym instructor, and run a startup at the same time. To doubt the person is unfair, you should question the process. **Is it well-optimized?**
+It’s a no-brainer to own an eCommerce store, be a gym instructor, and run a startup at the same time. To doubt the person is unfair; you should, instead, question the process. **Is it well-optimized?**
 
 ## **Master of One**
 
@@ -51,8 +51,6 @@ In today’s competitive world, the “hard-easy” way out is to be an expert. 
 Life is a blend of multiple processes, simultaneously running to achieve a common goal. What if you don’t have the time to “Do one thing at a time”? What if you have to be at the right place, at the right time to find an opportunity?
 
 Doing one thing to achieve success is not for everybody. While money and authority are a primary goal for all, not everybody is interested in being in the top 1%. You might just be happy doing so many things at the same time. The excitement you get when switching between activities is the natural biological response for “I’m human!”.
-
-In contrast, doing one thing every day wears you out. A lot of people enjoy what they do for whatever reasons and it’s unfair to judge them for taking that route. But it’s easy for them to drag those who aren’t taking the same route with them.
 
 ## **Should you focus on one thing?**
 
