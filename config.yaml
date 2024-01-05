@@ -36,7 +36,7 @@ social:
   # github: https://github.com/bythanni
   # spotify:
   # youtube: https://youtube.com/
-  twitter: https://twitter.com/ndzonline
+  twitter: https://twitter.com/ndzhq
   # dribbble: https://instagram.com/thannidesign
   #stackoverflow: your-github-link
   # facebook: your-facebook-link
@@ -63,7 +63,7 @@ params:
   # To enable comments, you may need to set `googleAnalytics`
   enableGoogleAnalytics: true
   # To enable table of content, you could set `showToc: true`, default is `false`
-  showToc: true
+  showToc: false
   # To hidden powerBy message in the page footer, you could set: `showPowerBy: false`, default is `true`
   showPowerBy: false
   # To enable math typesetting , you could set `math: true`, default is `false`
@@ -71,7 +71,7 @@ params:
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
   hiddenPostSummaryInHomePage: false
   # Website copy write, default: '© Copyright 2021 {params.author}'
-  copyright: © Copyright 2023 NDZ
+  copyright: © Copyright 2024 NDZ
 
   # Extra links in navigation
   links:
