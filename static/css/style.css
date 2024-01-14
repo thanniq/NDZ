@@ -593,3 +593,8 @@ nav.navigation a.button {
 .prev > a:hover {
   color: #02eb98;
 }
+
+.header-cta {
+  width: 100%;
+  text-align: center;
+}
