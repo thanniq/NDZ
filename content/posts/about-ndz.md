@@ -33,14 +33,14 @@ Let me introduce you to…
 
 ## <mark>**No Distraction Zone** (NDZ)</mark>
 
-A private community for students, freelancers, digital creators, entrepreneurs, and founders. It’s a community of life travelers!
+A private community for passionate individuals and remote workers. It’s a community of life travelers!
 
 This community is created to help YOU:
 
 - Become a better, sophisticated version of yourself.
 - Finally, become a ruthless executor who’s focused on getting results. When others talk, you do!
 - Become infinitely better at managing your time and getting more done in less time with less stress.
-- Tap into the collective knowledge of a community of creators and experts who are there to support and collaborate.
+- Tap into the collective knowledge of a community of creators and mentors who are there to support and collaborate.
 
 ## What makes NDZ different?
 
@@ -51,17 +51,14 @@ We celebrate the process as much as we do for results. We teach what works and w
 
 ## Who NDZ is For
 
-- Under 30s who need help with guides and resources on how to become a better version of themselves
-- Creatives who want to put their ideas out there but don’t know how
-- Freelancers who want more streams of income but are struggling with the details
-- Entrepreneurs who need a thriving community of like-minded to share their struggles with.
+- Individuals who need help with guides and resources to learn a new skill and become a better version of themselves
+- Freelancers who wants to monetize their skills but don't know how
+- Individuals who need a thriving community of like-minded peers to share their struggles with.
 
 ## Who NDZ is NOT For
 
 - If you're looking for some “done-for-you” money-making schemes.
-- If you're looking for a cult to join. This is simply a private community with a unique approach to work and life.
+- If you're looking for a cult to join. This is simply a private community with a unique approach to learning.
 - Complainers or people with a victim mindset. Part of joining the community is letting go of blame and taking charge of your growth.
 
-<mark>NDZ is temporarily closed to new members because we're updating and creating new materials. Subscribe to my letters to know when we're open for registration.</mark>
-
-<div style="height: 40vmin;min-height: 360px"><script src="https://cdn.jsdelivr.net/ghost/signup-form@~0.1/umd/signup-form.min.js" data-background-color="#F1F3F4" data-text-color="#000000" data-button-color="#009961" data-button-text-color="#FFFFFF" data-title="By Thanni" data-description="Guides and resources on digital skills, remote work, and personal growth." data-icon="https://bythanni.com/content/images/size/w192h192/size/w256h256/2023/09/PP.png" data-site="https://bythanni.com" async></script></div>
+Ready to get started? [Click here](https://ndz.ng) to join NDZ
