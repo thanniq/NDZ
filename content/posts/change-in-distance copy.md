@@ -25,7 +25,7 @@ It's easy to fall into the genius trap when the topic is simple to grasp but har
 
 ### 3. **Self-Doubt**
 
-This stage is common among beginners who pick up a hard skill to learn. They can fall into this loop of Self-Doubt to Enthusiasm to Feeling of Genius and back to Self Doubt. Just know that it's normal to have questions that need answers, and that's why you should be a part of a [community](https://ndz.ng/) that can help you in those tough moments. However, self-doubt is [not imposter sydrome](https://journal.ndz.ng/not-imposter-syndrome/). Competence breeds confidence.
+This stage is common among beginners who pick up a hard skill to learn. They can fall into this loop of Self-Doubt to Enthusiasm to Feeling of Genius and back to Self Doubt. Just know that it's normal to have questions that need answers, and that's why you should be a part of a [community](https://ndz.ng/) that can help you in those tough moments. However, self-doubt is [not imposter syndrome](https://journal.ndz.ng/not-imposter-syndrome/). Competence breeds confidence.
 
 ### 4. **Awareness**
 
