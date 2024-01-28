@@ -1,6 +1,6 @@
 +++
 author = "Thanni"
-title = "The comfort of atomic learning"
+title = "The Comfort of Atomic Learning"
 date = "2024-01-18"
 description = "Your zone of genius"
 tags = [

@@ -13,7 +13,7 @@ tags = [
 
 "Won't you dance?" she shouted again.
 
-While many would think I was shy, I knew that wasn't the case. It was just pure incompetence. If I tried to dance, they'd probably laugh louder than the music I'm dancing to. Anyway, I danced, moving as fast as I could, and ignoring the haters.
+While many would think I was shy, I knew that wasn't the case. It was just pure incompetence. If I tried to dance, they'd probably laugh louder than the music in the background. Anyway, I danced, moving as fast as I could, and ignoring the haters.
 
 However, in some public events, I was that boy who read Ewi (poem), in the Yoruba language. I did this almost every year, until graduation. While my mates were preparing for English dance drama and impressing girls, I was there, battling with poems like "Ise logun ise" (a popular Yoruba poem). To be honest, I was proud of representing my culture. But, I still wondered why I felt like an imposter every time.
 
