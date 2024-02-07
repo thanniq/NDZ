@@ -17,7 +17,7 @@ When you look at it, that's some gut! In my imagination, I left my home country 
 
 <mark>Why do we want to be world-class so bad?</mark>
 
-Yeah, it's harmless to when do so, but where do we draw the line between reality and fantasy. If I asked you who's the most famous Turkish musician, you'd probably stutter or have no idea. There're 195 countries in the world, and most people can't name beyond 20. The world is so big that trying to be world-class is a foolish goal.
+Yeah, it's a harmless thought, but where do we draw the line between reality and fantasy. If I asked you who's the most famous Turkish musician, you'd probably stutter or have no idea. There're 195 countries in the world, and most people can't name beyond 20. The world is so big that trying to be world-class is a foolish goal.
 
 There are millions of celebrities in the world you don't know because they are country-class. Some are musicians and actors who make art in their local language and that leaves the rest of the world wondering in awe. They don't compete for Grammy or International trophies. They simply enjoy the country-class benefits and live good life.
 
