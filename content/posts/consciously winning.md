@@ -11,9 +11,9 @@ tags = [
 
 <!--more-->
 
-Even with my naive mind, I murmur myself, many of these rich people don't know how hard life is. Yeah, that's stereotyping but it doesn't make it any less true.
+Even with my naive mind, I murmur to myself, many of these rich people don't know how hard life is. Yeah, that's stereotyping but it doesn't make it any less true.
 
-Being comfortable can make you feel out of touch. You start being unconscious of your wins and dwell in rejoicing, which eventually leads to mistakes. Hence, losses.
+Being too comfortable can make you feel out of touch. You become unconscious of your wins and dwell in rejoicing, which eventually leads to mistakes. Hence, losses.
 
 This brings me to the recent AFCON final between Nigeria and Ivory Coast. First, I don't think we have a great team. Call it luck or talent, we got to the final. But if it's anything, a final should be your best opportunity to prove to the world that you didn't game your way to success. Instead, I saw a set of players who had rejoiced in their past winnings and assumed it was going to be that way.
 
