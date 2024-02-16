@@ -23,10 +23,10 @@ This brings me to the recent AFCON final between Nigeria and Ivory Coast. First,
 
 **2. Recognize that a loss is coming** - The mission hasn't ended. You or your business will take a loss some hour, day, week or month. You just won't know when. Keeping this in mind will help you stay conscious of the traps of overrejoice. You smile and frown at the same time, like Kanye.
 
-<iframe src="https://giphy.com/embed/LKqDgLlK6SuIM" width="480" height="329" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/LKqDgLlK6SuIM" width="100%" height="329" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 **3. Recognize that the day is long** - As you go through many rounds of wins and losses, know that it never ends until it's done. This prepares your mind for a tough journey without giving up. You've planned and that's how long it takes to complete a goal. Stick with it.
 
 **Summary -** Play the long and short game, like a tai chi master who's trying to bend the wind.
 
-<iframe src="https://giphy.com/embed/SzlkrRcjBHor89MhBQ" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/SzlkrRcjBHor89MhBQ" width="100%" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
