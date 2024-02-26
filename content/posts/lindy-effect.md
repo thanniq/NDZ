@@ -7,7 +7,7 @@ tags = [
 "Thoughts",
 ]
 
-+++Ever heard of the Lindy effect? It's a concept that can means - **If something has been around for a long time, the longer it will be**. You can apply this idea to almost every area of your life, from investing to consumption, learning, life choices, and decisions.
++++Ever heard of the Lindy effect? It's a concept that means - **If something has been around for a long time, the longer it will be**. You can apply this idea to almost every area of your life, from investing to consumption, learning, life choices, and decisions.
 
 <!--more-->
 
