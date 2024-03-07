@@ -25,11 +25,11 @@ Imagine this scenario.
 
 You need 5 million naira in 6 months for some emergency. Let's say you need it to travel. To the average person, this is hard or far-fetched. But if you don't see the world as linear, you'd understand what leverage means.
 
-To have leverage, you need unique views of the world. To have unique views of the world, you need combination of skills. To have a combination of skills, you need an open mind. So, in essence, a closed mind will find many things hard before they even try. A closed mind will see only see cash grab hustles.
+To have leverage, you need unique views of the world. To have unique views of the world, you need combination of skills. To have a combination of skills, you need an open mind. So, in essence, a closed mind will find many things hard before they even try. A closed mind will only see cash grab hustles.
 
 Back to how to make ₦5m in 6 months.
 
-An example - If you learn X skill in and out in 3 months, get hired for conservative $1000 monthly, you'd make about $3000. That's ₦4.5m with today's exchange. Now, that seem theoretical, but a combination of multiple skills can help increase the odds of getting hired in the first place. But you need an open mind to learn multiple skills. An imaginative sense of "one day at a time".
+An example - If you learn X skill in and out in 3 months, get hired for conservative $1000 monthly for 3 months, you'd make about $3000. That's ₦4.5m with today's exchange. Now, that seem theoretical, but a combination of multiple skills can help increase the odds of getting hired in the first place. But you need an open mind to learn multiple skills. An imaginative sense of "one day at a time".
 
 The more you know, the more problems you see, the more you see gaps in human thinking, and the more you want to make an impact. This is why you want to be artsier than the average nerd, and nerdier than the average artist.
 
