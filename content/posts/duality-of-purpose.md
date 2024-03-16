@@ -13,7 +13,7 @@ tags = [
 
 He embodies greatness that many people will never become, but it's still a good dream to have. He also had a lot of surgery many people would not wish on their worst enemy.
 
-In the world today, many people want to be a good example to others, because there bad examples to reference. So, in essence, without underachieved children of their neighbours, the average parent won't care if their child is best in class.
+In the world today, many people want to be good examples to others, because there are bad examples to reference. So, in essence, without underachieved children of their neighbours, the average parent won't care if their child is best in class.
 
 The big question is...
 
