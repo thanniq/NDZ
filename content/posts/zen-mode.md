@@ -13,7 +13,7 @@ tags = [
 
 As humans, our concept of time is distorted. Let's assume you're asked to stay in a room alone for 1 hour without doing anything. About 15 minutes into your stay, if you're asked what time it is, you'd likely overestimate by over 50%. Also, if you're at a lively party and spend over an hour, you'd likely underestimate by over 50%. When you view time in a linear form, it feels longer. When you view time as distributed around many activities, it feels shorter.
 
-Many assume productivity is working 8 hours a day, 40 hours a week. However, research suggests that the average worker is only productive for two hours and 53 minutes in an eight-hour day. That's about 36% effectiveness.
+Many assume productivity is working 8 hours a day, 40 hours a week. However, [research](https://www.incafrica.com/melanie-curtin/in-an-8-hour-day-the-average-worker-is-productive-for-this-many-hours.html#:~:text=Research%20suggests%20that%20in%20an,works%208.8%20hours%20every%20day.) suggests that the average worker is only productive for two hours and 53 minutes in an eight-hour day. That's about 36% effectiveness.
 
 I measure productivity as the guilt you feel in real time. It doesn't matter how much you have to do or have done; the day feels perfect when you complete the most important task that will make you sleep without guilt. The catch is that we have more than one important daily task. How do you tackle this?
 
