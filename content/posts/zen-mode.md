@@ -15,13 +15,15 @@ As humans, our concept of time is distorted. Let's assume you're asked to stay i
 
 Many assume productivity is working 8 hours a day, 40 hours a week. However, [research](https://www.incafrica.com/melanie-curtin/in-an-8-hour-day-the-average-worker-is-productive-for-this-many-hours.html#:~:text=Research%20suggests%20that%20in%20an,works%208.8%20hours%20every%20day.) suggests that the average worker is only productive for two hours and 53 minutes in an eight-hour day. That's about 36% effectiveness.
 
+## How to Measure Productivity
+
 I measure productivity as the guilt you feel in real time. It doesn't matter how much you have to do or have done; the day feels perfect when you complete the most important task that will make you sleep without guilt. The catch is that we have more than one important daily task. How do you tackle this?
 
 Usually, having a chaotic mind or life can prevent you from seeing things as they are and how they should be. That's why you want to spend more time doing boring things, which will let you know how long things take. You can assess your productivity and the time needed to get something done.
 
 However, you need to enter the state of Zen, AKA deep work, to find boring work interesting. The problem with Zen mode is that people don't know how to start, and some see it as an elitist move by people with the resources to practice it.
 
-Here's a list of unique, weird, and low-budget ways to enter Zen mode.
+### Here's a list of unique, weird, and low-budget ways to enter Zen mode.
 
 **Soundless media** - Mute your phone, even when you're on social media. Ensure you hear nothing but only see moving pictures throughout the day.
 
