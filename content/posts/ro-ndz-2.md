@@ -7,7 +7,7 @@ tags = [
 "Last week on NDZ",
 ]
 
-+++Here's what happened at NDZ in the last few weeks
++++Here's what happened at NDZ in the October, 2024
 
 <!--more-->
 
