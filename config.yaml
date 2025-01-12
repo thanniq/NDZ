@@ -1,6 +1,6 @@
 baseURL: https://journal.ndz.ng
 languageCode: en-us
-title: No Distraction Zone
+title: NDZ Journal
 theme: mini
 
 # Default content language, support en (English) / zh (Chinese) / nl (Dutch) / fr (French) / es (Spanish), default 'en'
@@ -46,7 +46,7 @@ params:
   # Site Author
   author: Thanni
   # Author biography
-  bio: Journal
+  bio: Thoughts and Archives
   # bio: 🧘🏽‍♂️📚✈️ | Current📍 ~ 🇳🇬
   # bio: 🧘🏽‍♂️💻🎵🎭🎙📸
   # Site Description, used in HTML meat
