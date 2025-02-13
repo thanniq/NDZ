@@ -2,7 +2,7 @@
 author = "Thanni"
 title = "Recently on NDZ (Jan, 2025)"
 date = "2025-02-03"
-description = "What happened last week?"
+description = "What happened last month?"
 tags = [
 "Last month on NDZ",
 ]
