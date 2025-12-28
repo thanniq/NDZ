@@ -31,28 +31,16 @@ markup:
     renderer:
       unsafe: true
 
-# Social links in footer, support github,twitter,stackoverflow,facebook
-params:
-  social:
-    # e.g.
-    # github: https://github.com/bythanni
-    # spotify:
-    youtube: https://youtube.com/ndzacademy
-    twitter: https://twitter.com/ndzacademy
-    # dribbble: https://instagram.com/thannidesign
-    #stackoverflow: your-github-link
-    # facebook: your-facebook-link
-
 # Site parameters
 params:
   # Site Author
   author: Thanni
   # Author biography
-  bio: Thoughts and Archives
+  bio: Research, Essays and Archives
   # bio: 🧘🏽‍♂️📚✈️ | Current📍 ~ 🇳🇬
   # bio: 🧘🏽‍♂️💻🎵🎭🎙📸
   # Site Description, used in HTML meat
-  description: For remote workers and digital creators
+  description: Nation Development Zone Journal
 
   ###########################################
   # Optional Configuration
@@ -73,7 +61,13 @@ params:
   # To hidden post summary in home page, you could set `hiddenPostSummaryInHomePage: true`, default is `false`
   hiddenPostSummaryInHomePage: false
   # Website copy write, default: '© Copyright 2021 {params.author}'
-  copyright: © Copyright 2024 NDZ
+  copyright: © Copyright 2026 NDZ | All rights reserved
+  social:
+    # e.g.
+    # github: https://github.com/bythanni
+    # spotify:
+    youtube: https://youtube.com/ndzlearn
+    twitter: https://twitter.com/ndzhub
 
   # Extra links in navigation
   links:
