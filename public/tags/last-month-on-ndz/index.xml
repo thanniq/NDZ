@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Last Month on NDZ on NDZ Journal</title>
+    <link>http://localhost:1313/tags/last-month-on-ndz/</link>
+    <description>Recent content in Last Month on NDZ on NDZ Journal</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/last-month-on-ndz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recently on NDZ (Jan, 2025)</title>
+      <link>http://localhost:1313/recently-on-ndz-jan-2025/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/recently-on-ndz-jan-2025/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s what happened at NDZ in January, 2025&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

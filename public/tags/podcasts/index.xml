@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Podcasts on NDZ Journal</title>
+    <link>http://localhost:1313/tags/podcasts/</link>
+    <description>Recent content in Podcasts on NDZ Journal</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/podcasts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Q&amp;A Session Podcast</title>
+      <link>http://localhost:1313/first-qa-session-podcast/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/first-qa-session-podcast/</guid>
+      <description>&lt;p&gt;Welcome to No Distraction Zone (NDZ). Get to know more about NDZ&amp;rsquo;s mission and vision in this live session. We also answer questions you may have on digital skills and remote work.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

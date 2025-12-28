@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Last Week on NDZ on NDZ Journal</title>
+    <link>http://localhost:1313/tags/last-week-on-ndz/</link>
+    <description>Recent content in Last Week on NDZ on NDZ Journal</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/last-week-on-ndz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recently on NDZ (Dec, 2024)</title>
+      <link>http://localhost:1313/recently-on-ndz-dec-2024/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/recently-on-ndz-dec-2024/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s what happened at NDZ in the December, 2024&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Recently on NDZ (Nov, 2024)</title>
+      <link>http://localhost:1313/recently-on-ndz-nov-2024/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/recently-on-ndz-nov-2024/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s what happened at NDZ in the November, 2024&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Recently on NDZ (Oct, 2024)</title>
+      <link>http://localhost:1313/recently-on-ndz-oct-2024/</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/recently-on-ndz-oct-2024/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s what happened at NDZ in the October, 2024&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Recently on NDZ (Sept 9th - 20th)</title>
+      <link>http://localhost:1313/recently-on-ndz-sept-9th-20th/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/recently-on-ndz-sept-9th-20th/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s what happened at NDZ in the last week 2 weeks&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NDZ is now active on social media</title>
+      <link>http://localhost:1313/ndz-is-now-active-on-social-media/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ndz-is-now-active-on-social-media/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s what happened at NDZ last week (September 2nd - September 6th, 2024)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NDZ is now registered</title>
+      <link>http://localhost:1313/ndz-is-now-registered/</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ndz-is-now-registered/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s what happened at NDZ last week (August 25th - August 31st, 2024)&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

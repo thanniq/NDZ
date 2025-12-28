@@ -1,7 +1,7 @@
 +++
 author = "Thanni"
 title = "Recently on NDZ (Nov, 2024)"
-date = "2024-11-31"
+date = "2024-11-29"
 description = "What happened last week?"
 tags = [
 "Last week on NDZ",

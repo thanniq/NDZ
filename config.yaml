@@ -10,7 +10,8 @@ hasCJKLanguage: true
 permalinks:
   posts: /:title/
 
-paginate: 3
+pagination:
+  pagerSize: 3
 
 googleAnalytics: G-ST8VMVKJ1Y
 # disqusShortname: your-disqus-shortname
@@ -31,15 +32,16 @@ markup:
       unsafe: true
 
 # Social links in footer, support github,twitter,stackoverflow,facebook
-social:
-  # e.g.
-  # github: https://github.com/bythanni
-  # spotify:
-  youtube: https://youtube.com/ndzacademy
-  twitter: https://twitter.com/ndzacademy
-  # dribbble: https://instagram.com/thannidesign
-  #stackoverflow: your-github-link
-  # facebook: your-facebook-link
+params:
+  social:
+    # e.g.
+    # github: https://github.com/bythanni
+    # spotify:
+    youtube: https://youtube.com/ndzacademy
+    twitter: https://twitter.com/ndzacademy
+    # dribbble: https://instagram.com/thannidesign
+    #stackoverflow: your-github-link
+    # facebook: your-facebook-link
 
 # Site parameters
 params:
